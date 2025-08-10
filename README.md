@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdalrahman Elshafei
 
-🎓 Junior Data Analyst  
-🔍 Interested in Data Science, SQL, and Power BI  
-📈 Learning every day & sharing my projects
+🚀 Data Scientist  
+🤖 Specializing in Machine Learning, AI, and Predictive Analytics  
+📊 Skilled in Python, SQL, Power BI, and Data Storytelling  
+💡 Passionate about turning complex datasets into actionable insights
 
-📌 Check out my latest projects below!
 
